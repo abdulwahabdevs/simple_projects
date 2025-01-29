@@ -1,3 +1,5 @@
+# starter project
+
 def get_input(word_type: str) -> str:
     user_input = input(word_type)
     return user_input
