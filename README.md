@@ -5,3 +5,4 @@ The projects will be uploaded every time I finish them.
 Projects
 1. story_telling.py
 2. guessing_game.py
+3. dice_sim.py
