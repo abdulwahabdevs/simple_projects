@@ -6,3 +6,5 @@ Projects
 1. story_telling.py
 2. guessing_game.py
 3. dice_sim.py
+4. hangman.py
+5. 
