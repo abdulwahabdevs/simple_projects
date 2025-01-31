@@ -8,3 +8,4 @@ Projects
 3. dice_sim.py
 4. hangman.py
 5. rockpapaer.py
+6. passwordgen.py
