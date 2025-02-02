@@ -9,3 +9,4 @@ Projects
 4. hangman.py
 5. rockpapaer.py
 6. passwordgen.py
+7. qrcodegenerator.py
