@@ -12,3 +12,4 @@ Projects
 7. qrcodegenerator.py
 8. websitechecker.py
 9. passwordcheck.py
+10. bruteforce.py
