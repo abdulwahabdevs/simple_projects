@@ -2,7 +2,8 @@
 I will be doing some projects from beginner to Advanced on my journey to become developer.
 The projects will be uploaded every time I finish them.
 
-    __Beginnir Projects__
+__Beginnir Projects__
+
 1. story_telling.py
 2. guessing_game.py
 3. dice_sim.py
@@ -15,7 +16,9 @@ The projects will be uploaded every time I finish them.
 10. bruteforce.py
 11. imagedownloader.py
 12. tax_calculator.py
-    __Intermediate Projects__
+    
+__Intermediate Projects__
+    
 14. file_sorter.py
 15. sentiment_bot.py
 16. url_shortener.py
