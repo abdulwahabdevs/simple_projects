@@ -26,3 +26,4 @@ __Intermediate Projects__
 18. chat_bot.py
 19. test_scraper.py
 20. crypto_alerter.py + crypto_data.py
+21. public_api.py
