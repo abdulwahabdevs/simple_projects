@@ -29,3 +29,4 @@ __Intermediate Projects__
 21. public_api.py
 22. habit_tracker.py + main_tracker.py
 23. currency_converter.py + rates.json
+24. headline_scraper.py
