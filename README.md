@@ -30,3 +30,5 @@ __Intermediate Projects__
 22. habit_tracker.py + main_tracker.py
 23. currency_converter.py + rates.json
 24. headline_scraper.py
+25. main.py -> distance calculator
+26. 
