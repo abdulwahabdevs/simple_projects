@@ -31,4 +31,6 @@ __Intermediate Projects__
 23. currency_converter.py + rates.json
 24. headline_scraper.py
 25. main.py -> distance calculator
-26. 
+
+__Bigger Projects__
+26. send_email.py
