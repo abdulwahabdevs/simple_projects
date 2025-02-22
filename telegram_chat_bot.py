@@ -5,8 +5,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, Updater
 
 # Constants
-TOKEN: Final[str] = '7729693414:AAGaKuz5MH_7RjRY2oBTtqg6nVSpMEAK7yg'
-BOT_USERNAME: Final[str] = '@mans00r_bot'
+TOKEN: Final[str] = '...'
+BOT_USERNAME: Final[str] = '...'
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('Hello there! Nice to meet you. Let\'s chat')
