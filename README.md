@@ -38,3 +38,4 @@ __Bigger Projects__
 27. dummy_data.json + weather_api.py + main.py + model.py
 28. model.py + main.py (value_prediction file)
 29. telegram_chat_bot
+30. discord_bot
