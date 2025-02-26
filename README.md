@@ -39,3 +39,4 @@ __Bigger Projects__
 28. model.py + main.py (value_prediction file)
 29. telegram_chat_bot
 30. discord_bot
+31. dodgy_square_game
